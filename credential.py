@@ -1,0 +1,2 @@
+email = "YOUR EMAIL HERE"
+password = "YOUR EMAIL PASSWORD HERE"
